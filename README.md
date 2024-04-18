@@ -1,0 +1,2 @@
+# item_modifier-set_enchantments
+item_modifierの1項目であるset_enchantmentsのサンプルになります。
